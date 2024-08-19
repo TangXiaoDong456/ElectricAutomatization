@@ -1,2 +1,3 @@
-# ElectricAutomatization
-电气自动化工程案例
+# ElectricAutomatization Demo
+
+CoreInjectionMachine27.project:Bas Codesys 27 Axis motion Control, Use schneider touch FStudio PLC
